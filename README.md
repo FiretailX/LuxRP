@@ -1,7 +1,5 @@
 ---
-description: >-
-  Hei fënns du eraus, wéi s de FiveM installéiers, fir op LuxRP spillen ze
-  kënnen.
+description: "Op dëser Säit\_ass\_eng\_Uleedung zur\_Installatioun vu FiveM\_ze fannen. FiveM ass eng Applikatioun déi et erlaabt\_op\_dedizéierten\_GTAV\_Serveren, wéi\_z.B LuxRP ze spillen."
 ---
 
 # 1️ FiveM Instalatioun
